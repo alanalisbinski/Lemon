@@ -1,0 +1,22 @@
+body {
+    background-color: #b7cab2; 
+}
+
+p {
+    color: #f7f7f7;
+}
+
+.button {
+    background-color: #97c295; 
+    color: #fff; 
+    border-color: #007bff; 
+}
+header {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+.section {
+    background-color: #ffcc00; 
+    color: #333;
+}
